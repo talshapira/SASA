@@ -21,3 +21,7 @@ Moreover, identifying a hijacked route is not sufficient since an operator prese
 Our dataset is [publicly available](https://drive.google.com/drive/folders/1tsVNEcDiufnkGktDkLA8YPWARxNzsZTR?usp=sharing) for researchers:
 * dataset_b_noisy_7_agents - including both training and test sets for the training and evaluation of the model.
 * use_cases - a few interesting deflection cases (from recent years 2017-2020) that are not part of dataset_b.
+
+## Publications
+
+* T. Shapira and Y. Shavitt, "SASA: Source-Aware Self-Attention for IP Hijack Detection," in IEEE/ACM Transactions on Networking, doi: 10.1109/TNET.2021.3115935. [Download paper here](https://ieeexplore.ieee.org/document/9556519)
